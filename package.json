@@ -1,6 +1,6 @@
 {
   "name": "@server/esm",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "A server.js plugin to automatically bundle front-end Javascript. Just require /script.js or /script.min.js from the front-end",
   "homepage": "https://github.com/franciscop/server-esm#readme",
   "repository": "https://github.com/franciscop/server-esm.git",
