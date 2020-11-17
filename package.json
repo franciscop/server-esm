@@ -1,0 +1,22 @@
+{
+  "name": "@server/esm",
+  "version": "0.0.0",
+  "description": "A server.js plugin to automatically bundle front-end Javascript. Just require /script.js or /script.min.js from the front-end",
+  "homepage": "https://github.com/franciscop/server-esm#readme",
+  "repository": "https://github.com/franciscop/server-esm.git",
+  "bugs": "https://github.com/franciscop/server-esm/issues",
+  "funding": "https://www.paypal.me/franciscopresencia/19",
+  "author": "Francisco Presencia <public@francisco.io> (https://francisco.io/)",
+  "license": "MIT",
+  "keywords": [],
+  "main": "index.js",
+  "files": [],
+  "scripts": {
+    "start": "node demo.js"
+  },
+  "dependencies": {
+    "esbuild": "^0.8.9",
+    "mz": "^2.7.0",
+    "server": "^1.0.31"
+  }
+}
